@@ -1,0 +1,11 @@
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\TofuGridUWP.csproj.AssemblyReference.cache
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\App.g.i.cs
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\App.g.cs
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\MainPage.g.i.cs
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\MainPage.g.cs
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\App.xaml
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\MainPage.xaml
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\App.xbf
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\MainPage.xbf
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\TofuGrid.exe
+D:\GitMine\TofuGrid\TofuGrid\obj\x86\Debug\TofuGrid.pdb
