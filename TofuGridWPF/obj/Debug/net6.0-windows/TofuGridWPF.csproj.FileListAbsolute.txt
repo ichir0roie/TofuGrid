@@ -30,11 +30,9 @@ D:\GitMine\TofuGrid2\TofuGridWPF\bin\Debug\net6.0-windows\TofuGridWPF.dll
 D:\GitMine\TofuGrid2\TofuGridWPF\bin\Debug\net6.0-windows\TofuGridWPF.pdb
 D:\GitMine\TofuGrid2\TofuGridWPF\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF.csproj.AssemblyReference.cache
-D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\App.g.cs
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF_MarkupCompile.cache
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF_MarkupCompile.lref
-D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\MainWindow.baml
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF.g.resources
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF.GeneratedMSBuildEditorConfig.editorconfig
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF.AssemblyInfoInputs.cache
@@ -46,3 +44,7 @@ D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\refint\TofuGridWPF.dll
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF.pdb
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGridWPF.genruntimeconfig.cache
 D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\ref\TofuGridWPF.dll
+D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\DeepGrid.g.cs
+D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGrid.g.cs
+D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\DeepGrid.baml
+D:\GitMine\TofuGrid2\TofuGridWPF\obj\Debug\net6.0-windows\TofuGrid.baml

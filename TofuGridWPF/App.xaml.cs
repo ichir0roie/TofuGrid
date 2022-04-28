@@ -13,5 +13,16 @@ namespace TofuGridWPF
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+
+            //var w = new TofuGrid();
+
+            var w = new DeepGrid();
+            w.Show();
+
+        }
+
     }
 }

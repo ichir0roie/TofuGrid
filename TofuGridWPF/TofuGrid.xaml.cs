@@ -23,9 +23,9 @@ namespace TofuGridWPF
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class TofuGrid : Window
     {
-        public MainWindow()
+        public TofuGrid()
         {
             InitializeComponent();
 
