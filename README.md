@@ -1,7 +1,13 @@
-# TofuGrid
+# samples of .Net
+
+## The Binding
+
+Bindingの本当に基礎的な部分のサンプル。
+
+## TofuGrid
 in wpf ,  create full custamable datagrid from code behind
 
-# 概要
+### 概要
 
 wpfでもこんな感じに複雑なDataGridを表示したい。
 「xamlをつかわずに！！！」
