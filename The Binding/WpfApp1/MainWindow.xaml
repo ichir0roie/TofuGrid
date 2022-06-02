@@ -1,0 +1,33 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+        <Label Content="I want to binding." FontSize="30"/>
+        <Label>
+            試しに一つの値を同じところにバインディングさせてみよう。
+        </Label>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <Label Content="text box : "/>
+            <TextBox x:Name="tb" Text="{Binding Path=text, Mode=TwoWay , UpdateSourceTrigger=PropertyChanged}" MinWidth="100"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <Label Content="label : "/>
+            <Label Name="lb" Content="{Binding Path=text,Mode=TwoWay}"/>
+        </StackPanel>
+        <Button x:Name="reset" Content="reset" Click="reset_Click"/>
+
+        <Label Height="50"/>
+        <Label>以下は参照用のバインディング</Label>
+        <Label Content="{Binding Path=im.text}"/>
+        <Label Content="{Binding Path=dict[a]}"/>
+        <Label Content="{Binding Path=dict[b]}"/>
+        <Label>いかは、コード側からバインディングした場合</Label>
+        <Label Name="lbForCb"/>
+        <Label Name="lbForCb2"/>
+    </StackPanel>
+</Window>

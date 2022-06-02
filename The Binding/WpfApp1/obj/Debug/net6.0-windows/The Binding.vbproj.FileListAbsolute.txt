@@ -1,0 +1,1 @@
+D:\GitMine\samplesOfDotNet\The Binding\WpfApp1\obj\Debug\net6.0-windows\The Binding.vbproj.AssemblyReference.cache
