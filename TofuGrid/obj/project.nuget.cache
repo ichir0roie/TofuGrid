@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFXxIbQHPYz4p40xRloeLTCG4ZRtuaD+CsX5VlurgsQfy53NDS/WX1DAknA42Q6Fp/s6p4x7xr67uW+maIC96A==",
+  "dgSpecHash": "5+oU0YciSdbYpNpqQ1eMdoEADF1BLYOSGRc3MaiOA4rtPDTASvQgYXvfnJwzwVHIqo5VuvRDeYm/q/FHWKHviA==",
   "success": true,
-  "projectFilePath": "D:\\GitMine\\TofuGrid2\\TofuGrid\\TofuGridUWP.csproj",
+  "projectFilePath": "D:\\GitMine\\samplesOfDotNet\\TofuGrid\\TofuGridUWP.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.11-rel-30601-02\\microsoft.net.native.compiler.2.2.11-rel-30601-02.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.13\\microsoft.net.uwpcoreruntimesdk.2.2.13.nupkg.sha512",

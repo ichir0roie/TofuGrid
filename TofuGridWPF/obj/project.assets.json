@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitMine\\TofuGrid2\\TofuGridWPF\\TofuGridWPF.csproj",
+      "projectUniqueName": "D:\\GitMine\\samplesOfDotNet\\TofuGridWPF\\TofuGridWPF.csproj",
       "projectName": "TofuGridWPF",
-      "projectPath": "D:\\GitMine\\TofuGrid2\\TofuGridWPF\\TofuGridWPF.csproj",
+      "projectPath": "D:\\GitMine\\samplesOfDotNet\\TofuGridWPF\\TofuGridWPF.csproj",
       "packagesPath": "C:\\Users\\tihom\\.nuget\\packages\\",
-      "outputPath": "D:\\GitMine\\TofuGrid2\\TofuGridWPF\\obj\\",
+      "outputPath": "D:\\GitMine\\samplesOfDotNet\\TofuGridWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

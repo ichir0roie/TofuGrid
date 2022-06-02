@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitMine\\TofuGrid2\\TofuGrid\\TofuGridUWP.csproj": {}
+    "D:\\GitMine\\samplesOfDotNet\\TofuGrid\\TofuGridUWP.csproj": {}
   },
   "projects": {
-    "D:\\GitMine\\TofuGrid2\\TofuGrid\\TofuGridUWP.csproj": {
+    "D:\\GitMine\\samplesOfDotNet\\TofuGrid\\TofuGridUWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitMine\\TofuGrid2\\TofuGrid\\TofuGridUWP.csproj",
+        "projectUniqueName": "D:\\GitMine\\samplesOfDotNet\\TofuGrid\\TofuGridUWP.csproj",
         "projectName": "TofuGrid",
-        "projectPath": "D:\\GitMine\\TofuGrid2\\TofuGrid\\TofuGridUWP.csproj",
+        "projectPath": "D:\\GitMine\\samplesOfDotNet\\TofuGrid\\TofuGridUWP.csproj",
         "packagesPath": "C:\\Users\\tihom\\.nuget\\packages\\",
-        "outputPath": "D:\\GitMine\\TofuGrid2\\TofuGrid\\obj\\",
+        "outputPath": "D:\\GitMine\\samplesOfDotNet\\TofuGrid\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

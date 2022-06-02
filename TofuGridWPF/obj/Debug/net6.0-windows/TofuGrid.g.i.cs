@@ -61,7 +61,7 @@ namespace TofuGridWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TofuGridWPF;component/tofugrid.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TofuGridWPF;V1.0.0.0;component/tofugrid.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TofuGrid.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

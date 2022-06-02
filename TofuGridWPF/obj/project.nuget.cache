@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvvyCCnp8MmubQR73tPwBQIuNabChUrbCWqjsvoFrELaa3iL77YUws7+WT7Cr5KT3FRuiuRLs2rmFfdibnSoAQ==",
+  "dgSpecHash": "yA9fWhPu19C7+/dy9myLK46SUVNpZ883vSzH9TEwKB5q3J20FTslDWuAMD5/s2xYFYzH7IQxqvUuKsypYZWq0A==",
   "success": true,
-  "projectFilePath": "D:\\GitMine\\TofuGrid2\\TofuGridWPF\\TofuGridWPF.csproj",
+  "projectFilePath": "D:\\GitMine\\samplesOfDotNet\\TofuGridWPF\\TofuGridWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tihom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

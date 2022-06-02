@@ -61,7 +61,7 @@ namespace TofuGridWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TofuGridWPF;component/deepgrid.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TofuGridWPF;V1.0.0.0;component/deepgrid.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\DeepGrid.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
